@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-</head>
-<body>
-    <div class="container">
-        <img class="image" src="pics/logo-uniandes.png" alt="patients.png">
-        <h1>Proyecto final de Aprendizaje no supervisado</h1>
-    </div>
-</body>
-</html>
+<div align="center">
+  <img src="pics/logo-uniandes.png" alt="Logo de Uniandes" width="20" height="20">
+</div>
+
 
