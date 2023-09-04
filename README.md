@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="Img/proj-UA.png" alt="Logo de Uniandes" width="250" height="90">
+  <img src="Img/proj-UA1.png" alt="Logo de Uniandes" width="250" height="90">
 </div>
 <br>
 <div align="center">
