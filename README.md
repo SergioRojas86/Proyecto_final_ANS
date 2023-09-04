@@ -14,3 +14,5 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
     <li>Identificar patrones y estructuras ocultas en el conjunto de datos sin requerir etiquetas previas.</li>
     <li>Generar conocimientos valiosos a partir de la interpretación de los resultados de la clusterización.</li> 
 </ul>
+
+<p>puedes ver las imagenes en [pic folder](pics).</p>
