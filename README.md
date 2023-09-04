@@ -11,8 +11,8 @@ Si deseas más información acerca del proyecto, te puedes dirigir al archivo [P
 
 <h2 >Estructura del repositorio:</h2> 
 <ol>
-    <li><a href="Code/">Code</a></li> texto
-    <li><a href="Docs/">Docs</a></li> texto
+    <li><a href="Code/">Code</a>: texto</li>
+    <li><a href="Docs/">Docs</a> texto</li>
     <li><a href="Img/">Img</a></li>
     <li><a href="Inputs/">Inputs</a></li>
 </ol>
