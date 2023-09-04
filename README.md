@@ -15,4 +15,4 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
     <li>Generar conocimientos valiosos a partir de la interpretación de los resultados de la clusterización.</li> 
 </ul>
 
-puedes ver las imagenes en [pic folder](https://github.com/SergioRojas86/Proyecto_final_ANS.git/pics/pro-UA.png)
+puedes ver las imagenes en [pic folder](pics/pro-UA.png)
