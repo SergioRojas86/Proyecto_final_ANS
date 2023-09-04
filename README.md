@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Img/Titulo.png" alt="titulo" width="1000" height="500">
+  <img src="Img/Titulo.png" alt="titulo" width="1000" height="300">
 </div>
 
 <p align="justify"> 
