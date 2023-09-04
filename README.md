@@ -1,9 +1,9 @@
-<div align="left">
-  <img src="Img/pro-UA.png" alt="Logo de Uniandes" width="230" height="100">
+<div align="right">
+  <img src="Img/proj-UA.png" alt="Logo de Uniandes" width="230" height="100">
 </div>
 
 <div align="center">
-  <img src="Img/Titulo.png" alt="titulo" width="900" height="200">
+  <img src="Img/Titulo.png" alt="titulo" width="900" height="150">
 </div>
 
 <p align="justify"> 
