@@ -11,10 +11,10 @@ Si deseas más información acerca del proyecto, te puedes dirigir al archivo [P
 
 <h2 >Estructura del repositorio:</h2> 
 <ol>
-    <li><a href="Code/">Code</a>: texto</li>
-    <li><a href="Docs/">Docs</a> texto</li>
-    <li><a href="Img/">Img</a></li>
-    <li><a href="Inputs/">Inputs</a></li>
+    <li><a href="Code/">Code</a>: Actualmente contiene un archivo con el análisis estadístico de nuestros datos de entrada, en el futuro también encontraremos el archivo con nuestro modelo de clusterización aplicado.</li>
+    <li><a href="Docs/">Docs</a>: Encontramos el archivo con la propuesta y descripción del proyecto incluyendo el análisis inicial de los datos.</li>
+    <li><a href="Img/">Img</a>: Imagenes utilizadas en el archivo README.md</li>
+    <li><a href="Inputs/">Inputs</a>: Esta ubicado el archivo CSV el cual utilizamos como input para nuestro modelo</li>
 </ol>
 
 <h2 >Objetivos:</h2> 
