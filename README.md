@@ -41,3 +41,15 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
 </ol>
 
 Si deseas más información acerca del proyecto, te puedes dirigir al archivo [Propuesta inicial](Docs/Propuesta_Inicial_grupo_15.docx).
+
+<div align="center">
+  <img src="Img/analytics.jpg" alt="imagen" width="230" height="100">
+</div>
+
+<h2 >Integrantes:</h2> 
+<ul>
+    <li>Sergio Rojas</li>
+    <li>Gloria Ramos </li>
+    <li>Andres Beltrán</li>
+    <li>Cristhian Amaya</li>
+</ul>
