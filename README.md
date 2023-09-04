@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="Img/proj-UA.png" alt="Logo de Uniandes" width="250" height="90">
 </div>
 <br>
