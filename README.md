@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Img/Titulo.png" alt="Logo de Uniandes" width="230" height="100">
+  <img src="Img/Titulo.png" alt="titulo" width="1000" height="500">
 </div>
 
 <p align="justify"> 
@@ -45,7 +45,7 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
 Si deseas más información acerca del proyecto, te puedes dirigir al archivo [Propuesta inicial](Docs/Propuesta_Inicial_grupo_15.docx).
 
 <div align="center">
-  <img src="Img/linea.jpg" alt="imagen" width="230" height="100">
+  <img src="Img/linea.png" alt="imagen" width="230" height="100">
 </div>
 
 <h2 >Integrantes:</h2> 
