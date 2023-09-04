@@ -11,10 +11,10 @@ Si deseas más información acerca del proyecto, te puedes dirigir al archivo [P
 
 <h2 >Estructura del repositorio:</h2> 
 <ol>
-    <li>Code</li>
-    <li>Docs</li>
-    <li>Img</li>
-    <li>Inputs</li> 
+    <li>[Code](Code/)</li>
+    <li>[Docs](Docs/)</li>
+    <li>[Img](Img/)</li>
+    <li>[Inputs](Inputs/)</li> 
 </ol>
 
 <h2 >Objetivos:</h2> 
