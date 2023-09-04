@@ -1,7 +1,7 @@
 <div align="right">
   <img src="Img/proj-UA.png" alt="Logo de Uniandes" width="200" height="70">
 </div>
-
+<br>
 <div align="center">
   <img src="Img/Titulo.png" alt="titulo" width="850" height="185">
 </div>
