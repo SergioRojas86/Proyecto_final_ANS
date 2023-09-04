@@ -45,7 +45,7 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
 Si deseas más información acerca del proyecto, te puedes dirigir al archivo [Propuesta inicial](Docs/Propuesta_Inicial_grupo_15.docx).
 
 <div align="center">
-  <img src="Img/linea.png" alt="imagen" width="900" height="160">
+  <img src="Img/linea.png" alt="imagen" width="900" height="150">
 </div>
 
 <h2 >Integrantes:</h2> 
