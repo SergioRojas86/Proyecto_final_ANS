@@ -12,7 +12,7 @@ Si deseas más información acerca del proyecto, te puedes dirigir al archivo [P
 <h2 >Estructura del repositorio:</h2> 
 <ol>
     <li>[Code](Code/)</li>
-    <li>[Docs](Docs/)</li>
+    <li><a href="Docs/">Docs</a></li>
     <li>[Img](Img/)</li>
     <li>[Inputs](Inputs/)</li> 
 </ol>
