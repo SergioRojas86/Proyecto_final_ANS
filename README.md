@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="Pics/pro-UA.png" alt="Logo de Uniandes" width="230" height="100">
+  <img src="Img/pro-UA.png" alt="Logo de Uniandes" width="230" height="100">
 </div>
 
 <h1 align="center"> Análisis de Clúster para la generación de campañas de mercadeo en la distribución de la toxina US Botulinum en una compañía cosmética </h1>
@@ -13,8 +13,8 @@ Si deseas más información acerca del proyecto, te puedes dirigir al archivo [P
 <ol>
     <li>Code</li>
     <li>Docs</li>
-    <li>Inputs</li>
-    <li>Pics.</li> 
+    <li>Img</li>
+    <li>Inputs</li> 
 </ol>
 
 <h2 >Objetivos:</h2> 
