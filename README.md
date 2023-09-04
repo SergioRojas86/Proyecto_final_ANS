@@ -27,13 +27,13 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
     <li>Recopilación y Preprocesamiento de Datos.</li>
     <li>Selección de Variables.</li>
     <li>Configuración de Parámetros.</li>
-        - métodos de enlace.
+        - métodos de enlace.<br>
         - métricas de distancia. 
     <li>Aplicación de Clusterización Jerárquica.</li>
         - Uso de dendrograma para visualizar la estructura jerárquica de los clústeres.
     <li>Evaluación del Número Óptimo de Clústeres.</li>
-        - elbow method.
-        - índice de silueta.
+        - elbow method.<br>
+        - índice de silueta.<br>
         - otros métodos de selección de clústeres en caso de ser necesario.
     <li>Interpretación de Resultados.</li>
     <li>Validación de Resultados.</li>
