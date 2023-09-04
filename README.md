@@ -4,6 +4,6 @@
 
 
 <p align="right">
-  <img src="pics/logo-uniandes.png" alt="Logo de Uniandes" width="200" height="100">
+  img src="pics/logo-uniandes.png" alt="Logo de Uniandes" width="200" height="100",
   Proyecto final Aprendizaje No Supervisado 
 </p>
