@@ -10,4 +10,4 @@
   Proyecto final Aprendizaje No Supervisado
 </p>
 
-![image](pics/logo-uniandes.png);text
+![image](pics/logo-uniandes.png)&nbsp;&nbsp;&nbsp;&nbsp;
