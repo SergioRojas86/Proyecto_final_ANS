@@ -42,7 +42,7 @@ En este proyecto nos concentraremos en realizar un análisis de datos, los cuale
     <li>Documentación y Comunicación de Resultados.</li>
 </ol>
 
-Si deseas más información acerca del proyecto, te puedes dirigir al archivo [Propuesta inicial](Docs/"Análisis de Clúster - proyecto final.pdf").
+Si deseas más información acerca del proyecto, te puedes dirigir al archivo [Propuesta inicial](<Docs/Análisis de Clúster - proyecto final.pdf>).
 
 <h2 >Integrantes:</h2> 
 <ul>
